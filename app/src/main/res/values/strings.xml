@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Study</string>
+    <string name="Like" >None</string>
+    <string name="DisLike" >None</string>
+    <string name="Insert">Insert</string>
+    <string name="Delete">Delete</string>
+    <string name="Clear">Clear</string>
+    <string name="Update">Update</string>
+</resources>

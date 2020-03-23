@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">安卓学习</string>
+    <string name="Like">没有</string>
+    <string name="DisLike">没有</string>
+    <string name="Insert">插入</string>
+    <string name="Delete">删除</string>
+    <string name="Clear">清除</string>
+    <string name="Update">更新</string>
+</resources>
