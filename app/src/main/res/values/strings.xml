@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">Study</string>
-    <string name="Like" >None</string>
-    <string name="DisLike" >None</string>
+    <string name="Like">None</string>
+    <string name="DisLike">None</string>
     <string name="Insert">Insert</string>
     <string name="Delete">Delete</string>
     <string name="Clear">Clear</string>
     <string name="Update">Update</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
